@@ -10,6 +10,7 @@ const Applicant_card = () => {
         <div className='text-xl font-semibold'>Senior Product Manager</div>
         <div className='text-lg'>DR. BNC</div>
         <div className='text-indigo-600 hover:font-bold hover:cursor-pointer hover:underline'>View Profile</div>
+        <div>First time push karrela hai!</div>
       </div>
     </div>
   )
